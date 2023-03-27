@@ -25,6 +25,12 @@ npm install
 npm start
 ```
 
+- Question 3 has tests. Don't forget to install the packages previously. To check the tests, run the command:
+
+```sh
+npm test
+```
+
 ### Requirements
 
 - NodeJS
