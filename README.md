@@ -5,7 +5,7 @@
 
 ### Instructions
 
-- To run JavaScript questions:
+- To run JavaScript questions, type the code in your terminal:
 
 ```sh
 node question1.js
