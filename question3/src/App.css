@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+  max-height: 100vh;
+  min-height: 100vh;
+  overflow: auto;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 80vh;
+}
+
+.main-content {
+  display: flex;
+  width: inherit;
+  height: inherit;
+}
+
+.first-column {
+  width: 35vw;
+}
+
+.second-column {
+  width: 65vw;
+}
+
+.related-content{
+  display: flex;
+  height: 20vh;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+h2 {
+  padding: 12px 0;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
